@@ -1,5 +1,5 @@
 # movie-app
-This is for Indxx
+This is for Chess Board
 
 To run the app, first install node modules, though I have already pushed the modules for the same, still if you mniss any packages, please feel free to install. By running
 npm install
